@@ -9,12 +9,14 @@
 .projects{
     color: black;
     background-color: rgb(0, 255, 221);
+    font-size: small;
     ;
 }
 
 .aboutme{
     color: black;
     background-color: rgb(140, 200, 0);
+    font-size: small;
     ;
 }
 
